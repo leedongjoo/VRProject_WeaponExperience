@@ -45,6 +45,11 @@
 				"Win64",
 				"Android"
 			]
+		},
+		{
+			"Name": "VRDebugPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/9f6a7a87237b4f538e566391df2a778f"
 		}
 	],
 	"TargetPlatforms": [
